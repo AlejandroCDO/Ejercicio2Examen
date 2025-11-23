@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'rubengarcia.ejercicio2examen'
+    namespace 'alejandrocompany.ejercicio2examen'
     compileSdk {
         version = release(36)
     }

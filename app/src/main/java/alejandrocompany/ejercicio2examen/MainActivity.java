@@ -1,9 +1,7 @@
-package rubengarcia.ejercicio2examen;
+package alejandrocompany.ejercicio2examen;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
-
-import com.google.android.material.snackbar.Snackbar;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -17,12 +15,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 
-import rubengarcia.ejercicio2examen.adapters.DesconocidoAdapter;
-import rubengarcia.ejercicio2examen.databinding.ActivityMainBinding;
-import rubengarcia.ejercicio2examen.models.DesconocidoModel;
+import alejandrocompany.ejercicio2examen.adapters.DesconocidoAdapter;
+import alejandrocompany.ejercicio2examen.databinding.ActivityMainBinding;
+import alejandrocompany.ejercicio2examen.models.DesconocidoModel;
 
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;

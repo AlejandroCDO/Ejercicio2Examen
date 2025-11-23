@@ -1,4 +1,4 @@
-package rubengarcia.ejercicio2examen.models;
+package alejandrocompany.ejercicio2examen.models;
 
 import java.io.Serializable;
 

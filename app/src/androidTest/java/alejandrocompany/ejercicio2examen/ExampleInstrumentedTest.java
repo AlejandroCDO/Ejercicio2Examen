@@ -1,4 +1,4 @@
-package rubengarcia.ejercicio2examen;
+package alejandrocompany.ejercicio2examen;
 
 import android.content.Context;
 

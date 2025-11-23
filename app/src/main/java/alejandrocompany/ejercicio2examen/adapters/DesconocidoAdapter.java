@@ -1,4 +1,4 @@
-package rubengarcia.ejercicio2examen.adapters;
+package alejandrocompany.ejercicio2examen.adapters;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
-import rubengarcia.ejercicio2examen.R;
-import rubengarcia.ejercicio2examen.models.DesconocidoModel;
+import alejandrocompany.ejercicio2examen.R;
+import alejandrocompany.ejercicio2examen.models.DesconocidoModel;
 
 //CAMBIAR NOMBRES
 public class DesconocidoAdapter extends RecyclerView.Adapter<DesconocidoAdapter.DesconocidoVH> {
